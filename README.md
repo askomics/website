@@ -24,7 +24,7 @@ cd askomics_website
 make install
 ```
 
-## Deployment
+## Deployment of the Website
 
 ```bash
 make build
