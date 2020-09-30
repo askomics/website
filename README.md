@@ -49,7 +49,7 @@ make page
 
 The new page will be created in the `pages` directory
 
-### Create a post
+### Create the post
 
 ```bash
 make post
