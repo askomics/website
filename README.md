@@ -41,7 +41,7 @@ Generated html are in the `output` directory
 make serve
 ```
 
-### Create a page
+### Creating page
 
 ```bash
 make page
@@ -49,7 +49,7 @@ make page
 
 The new page will be created in the `pages` directory
 
-### Create a post
+### Creating post
 
 ```bash
 make post
