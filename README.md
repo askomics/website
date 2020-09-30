@@ -47,7 +47,7 @@ make serve
 make page
 ```
 
-The new page will be created in the `pages` directory
+The new page will created in the `pages` directory
 
 ### Create a post
 
@@ -55,4 +55,4 @@ The new page will be created in the `pages` directory
 make post
 ```
 
-The new post will be created in the `posts` directory
+The new post will created in the `posts` directory
