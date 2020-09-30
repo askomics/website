@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/askomics/website.svg?branch=master)](https://travis-ci.org/askomics/website)
 
-AskOmics website, build with [Nikola](https://getnikola.com/)
+Amazing AskOmics website, build with [Nikola](https://getnikola.com/)
 
 
 ## Installation
