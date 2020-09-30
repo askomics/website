@@ -35,10 +35,10 @@ Generated html are in the `output` directory
 
 ## Developement
 
-### Serve website locally
+### Server website locally
 
 ```bash
-make serve
+make server
 ```
 
 ### Create a page
