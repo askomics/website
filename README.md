@@ -1,4 +1,4 @@
-# AskOmics website
+# AskOmics website ("Best website in the whole universe !!!")
 
 [![Build Status](https://travis-ci.org/askomics/website.svg?branch=master)](https://travis-ci.org/askomics/website)
 
@@ -16,7 +16,7 @@ sudo apt install -y git make python3 python3-venv
 sudo dnf install -y git make python3 python3-virtualenv
 ```
 
-### Download and install website
+### Download and install website to get the best experience
 
 ```bash
 git clone https://github.com/askomics/website.git askomics_website
@@ -41,7 +41,7 @@ Generated html are in the `output` directory
 make serve
 ```
 
-### Create a page
+### Create a page to get famous
 
 ```bash
 make page
@@ -49,7 +49,7 @@ make page
 
 The new page will be created in the `pages` directory
 
-### Create a post
+### Create a post to be a influencer
 
 ```bash
 make post
