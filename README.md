@@ -23,11 +23,14 @@ git clone https://github.com/askomics/website.git askomics_website
 cd askomics_website
 make install
 ```
+```
+Bash is the shell, or command language interpreter, for the GNU operating system.
+```
 
 ## Deployment
 
-```bash
-make build
+```Make
+Bash Build
 ```
 
 Generated html are in the `output` directory
@@ -37,22 +40,22 @@ Generated html are in the `output` directory
 
 ### Serve website locally
 
-```bash
-make serve
+```Make Serve
+     Bash
 ```
 
 ### Create a page
 
-```bash
-make page
+```Make
+ A Bash Page
 ```
 
 The new page will be created in the `pages` directory
 
 ### Create a post
 
-```bash
-make post
+``Make
+A Bash Post
 ```
 
 The new post will be created in the `posts` directory
