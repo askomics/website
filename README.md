@@ -1,4 +1,4 @@
-# AskOmics website
+# AskOmics 
 
 [![Build Status](https://travis-ci.org/askomics/website.svg?branch=master)](https://travis-ci.org/askomics/website)
 
