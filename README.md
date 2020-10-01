@@ -55,4 +55,9 @@ The new page will be created in the `pages` directory
 make post
 ```
 
+### Market the website
+
+```bash
+Facebook,twitter,instagram e.t.c
+```
 The new post will be created in the `posts` directory
