@@ -7,7 +7,7 @@ AskOmics website, build with [Nikola](https://getnikola.com/)
 
 ## Installation
 
-### Install dependencies
+### Install Dependencies
 
 ```bash
 # Debian/Ubuntu
@@ -16,7 +16,7 @@ sudo apt install -y git make python3 python3-venv
 sudo dnf install -y git make python3 python3-virtualenv
 ```
 
-### Download and install website
+### Download And Install Website
 
 ```bash
 git clone https://github.com/askomics/website.git askomics_website
