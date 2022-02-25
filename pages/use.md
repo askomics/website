@@ -2,10 +2,10 @@
 .. title: Use
 .. slug: use
 .. date: 2020-05-12 12:08:00 UTC+02:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 .. hidetitle: true
 -->
@@ -53,7 +53,7 @@ This page lists platforms where you can use or deploy your own AskOmics with min
     <tr>
       <td><a href="https://nextprot.askomics.org">nextprot.askomics.org</a></th>
       <td>Linked to <a href="https://sparql.nextprot.org">neXtProt</a> endpoint</td>
-      <td><a href="https://www.sfbi.fr/sites/sfbi.fr/files/jobim/jobim2020/posters/compressed/jobim2020_poster_155.pdf">Jobim 2020 poster</a></td>
+      <td><a href="../docs/jobim2020_askomics_5slides.pdf">Jobim 2020 poster</a></td>
     </tr>
     <tr>
       <td><a href="https://uniprot.askomics.org">uniprot.askomics.org</a></th>
