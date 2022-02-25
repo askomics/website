@@ -53,7 +53,7 @@ This page lists platforms where you can use or deploy your own AskOmics with min
     <tr>
       <td><a href="https://nextprot.askomics.org">nextprot.askomics.org</a></th>
       <td>Linked to <a href="https://sparql.nextprot.org">neXtProt</a> endpoint</td>
-      <td><a href="../docs/jobim2020_askomics_5slides.pdf">Jobim 2020 poster</a></td>
+      <td><a href="/assets/jobim2020_askomics_5slides.pdf">Jobim 2020 poster</a></td>
     </tr>
     <tr>
       <td><a href="https://uniprot.askomics.org">uniprot.askomics.org</a></th>

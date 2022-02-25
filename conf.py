@@ -14,6 +14,7 @@ import time
 # ! Option (a) is used when you don't want that setting translated.
 # ! Option (b) is used for settings that are different in different languages.
 
+INDEX_PATH = "blog"
 
 # Data about this site
 BLOG_AUTHOR = "Xavier Garnier"  # (translatable)
@@ -145,7 +146,7 @@ NAVIGATION_LINKS = {
         ("/deploy/", "<i class='fab fa-docker'></i> Deploy"),
         ("/docs/", "<i class='fas fa-book'></i> Docs"),
         ("/news/", "<i class='fas fa-newspaper'></i> News"),
-        ("/papers/", "<i class='fas fa-book-open-cover'></i> Papers")
+        ("/papers/", "<i class='fas fa-book'></i> Papers"),
         ("/contact/", "<i class='fas fa-envelope'></i> Contact")
     ),
 }
@@ -228,8 +229,6 @@ PAGES = (
     ("pages/*.txt", "", "page.tmpl"),
     ("pages/*.html", "", "page.tmpl"),
 )
-
-INDEX_PATH = "news"
 
 # Below this point, everything is optional
 
