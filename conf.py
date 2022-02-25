@@ -145,6 +145,7 @@ NAVIGATION_LINKS = {
         ("/deploy/", "<i class='fab fa-docker'></i> Deploy"),
         ("/docs/", "<i class='fas fa-book'></i> Docs"),
         ("/news/", "<i class='fas fa-newspaper'></i> News"),
+        ("/papers/", "<i class='fas fa-book-open-cover'></i> Papers")
         ("/contact/", "<i class='fas fa-envelope'></i> Contact")
     ),
 }
@@ -220,12 +221,7 @@ THEME_CONFIG = {
 #         ("pages/*.md", {"en": "pages", "de": "seiten"}, "page.tmpl"),
 #     )
 
-POSTS = (
-    ("posts/*.rst", "news", "post.tmpl"),
-    ("posts/*.md", "news", "post.tmpl"),
-    ("posts/*.txt", "news", "post.tmpl"),
-    ("posts/*.html", "news", "post.tmpl"),
-)
+
 PAGES = (
     ("pages/*.rst", "", "page.tmpl"),
     ("pages/*.md", "", "page.tmpl"),
